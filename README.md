@@ -10,7 +10,7 @@ Install ROS 2 Humble (or a newer distro with the same APIs).
 # Clone this repository
 git clone \
   https://github.com/wei-hsuan-cheng/admittance_controller.git \
-  -b main
+  -b humble
 
 # rosdep install
 rosdep update
